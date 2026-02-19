@@ -1,0 +1,31 @@
+Age,Credit_Score,Education_Level,Employment_Status,Has_Dependents,Income,Loan_Purpose,Loan_Value,Married,Prior_Default,Sex,Wtd_Ave_Debt_Interest,Total_Debt
+27.8,678,1,Full-Time,Y,48211,Credit Card,4183,Married,N,Female,0.1018,4238
+49.6,666,2,Part-Time,Y,101924,Business,12465,Married,N,Male,0.1495,12616
+36.5,647,2,Unemployed,Y,68543,Auto,5638,Married,N,Mail,0.1572,5733
+64.4,704,2,Full-Time,N,178848,Credit Crad,51177,Single,N,Male,0.1745,51382
+37,756,1,Full-Tme,N,68445,Credit Card,23423,Single,N,Femalee,0.0992,23448
+25.3,638,2,,N,85906,Auto,24353,,Y,Female,0.1712,24569
+33.2,690,0,Full-Time,Y,47399,Credit Card,5392,Married,N,Non-Binary,0.0898,5444
+49.4,677,2,Part-Time,N,127634,Auto,21177,Single,Y,Male,0.19,21359
+32.6,930,0,Full-Time,N,47072,Credit Card,4431,Married,N,Female,0.1306,4447
+35.2,757,2,Full-Time,Y,55004,Medical,2723,Married,N,Male,0.0919,2738
+43.5,683,2,Prat-Time,Y,93779,Credit Card,9673,Single,Y,Female,0.1408,9858
+42.5,621,2,Part-Time,N,180009,Auto,45364,Single,N,Female,0.1874,45917
+31.3,702,1,Full-Tme,Y,,Auto,11107,Married,N,Female,0.1127,11163
+35.2,722,2,Full-Tme,Y,89524,Bussins,32859,Single,N,Male,0.1249,32926
+31.9,708,1,Full-Time,N,37683,Credit Card,3124,Single,N,Male,0.0942,3149
+38.2,701,2,Unemployed,N,63673,Auto,9324,,Y,Mail,0.1341,9396
+26.1,821,3,Full-Time,N,70848,Medical,10541,Single,N,Male,0.0982,10544
+45.3,760,2,Full-Time,N,86827,Mortgage,10554,Single,N,Male,0.1356,10568
+28.9,750,0,Full-Time,Y,46667,Business,2177,Married,N,Mail,0.0889,2194
+34.1,774,2,,Y,61116,Medical,8217,Married,N,Mail,0.0774,8226
+41,683,2,Pert-Time,Y,102470,Auto,48300,Single,N,Femalee,0.1541,48426
+44.5,819,0,Full-Tme,N,41812,Auto,6294,Single,N,Male,0.0766,6296
+48.2,722,2,Full-Tme,N,58532,Mortgarage,15417,Single,N,Female,0.1094,15448
+21.3,738,2,Full-Time,Y,77438,Credit Card,28784,Married,N,Male,0.0948,28842
+38.9,705,4,Part-Time,N,144379,Credit Crad,108395,Single,N,Male,0.1403,108613
+47,683,2,Pert-Time,N,-130132,Credit Card,22014,Single,N,No-Barny,0.168,22199
+23,768,2,Full-Time,N,54554,Business,6547,Married,N,Male,0.0902,6557
+45.8,,1,Full-Time,Y,79801,Medical,10826,Married,N,Male,0.1166,10851
+45.4,747,3,Full-Time,Y,99505,Mortgage,11881,Married,N,Male,0.1198,-11911
+41.2,727,2,Full-Time,N,74760,Bussins,13413,Single,N,Female,0.1087,13451
